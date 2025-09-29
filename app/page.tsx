@@ -1264,7 +1264,8 @@ function PerformanceAnalytics() {
               <SelectItem value="all">All Sports</SelectItem>
               <SelectItem value="Sit and Reach">Sit and Reach</SelectItem>
               <SelectItem value="Vertical Jump">Vertical Jump</SelectItem>
-              <SelectItem value="badminton">Badminton</SelectItem>
+              <SelectItem value="Broad Jump">Broad Jump</SelectItem>
+              <SelectItem value="Shuttle Run">Shuttle Run</SelectItem>
             </SelectContent>
           </Select>
         </div>
